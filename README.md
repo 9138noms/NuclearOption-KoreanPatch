@@ -1,6 +1,6 @@
 # Nuclear Option 한국어 패치 (Localization Patch)
 
-Nuclear Option 게임의 한국어 번역 모드입니다. BepInEx 플러그인으로 동작하며, UI·백과사전·힌트·툴팁 등 **1,427개 항목**을 번역합니다.
+Nuclear Option 게임의 한국어 번역 모드입니다. BepInEx 플러그인으로 동작하며, UI·백과사전·힌트·툴팁 등 **1,574개 항목**을 번역합니다.
 
 ## 요구사항
 
@@ -29,7 +29,7 @@ Nuclear Option 게임의 한국어 번역 모드입니다. BepInEx 플러그인�
 | 파일 | 설명 |
 |------|------|
 | `LocalizationPatch.dll` | 패치 플러그인 |
-| `ko.json` | 한국어 번역 데이터 (1,427개 항목) |
+| `ko.json` | 한국어 번역 데이터 (1,574개 항목) |
 | `Pretendard-Regular.otf` | 한글 표시용 폰트 |
 
 ## 인게임 단축키
